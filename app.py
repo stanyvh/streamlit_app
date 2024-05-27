@@ -4,9 +4,9 @@ import numpy as np
 import joblib
 import sklearn
 
-st.title("Predicting Life Satisfaction based on GDP per Capita.")
+st.title("Predicting Life Satisfaction")
 st.write("This Machine Learning model will make a prediction for the Life Satisfaction (1-10) of a country based on it's GDP per Capita.")
-st.write("Two values for you to test: ")
+st.write("Here are two example values for you to test: ")
 st.write("Belgium's GDP per Capita: 53659.317, original value: 6.8")
 st.write("Colombia's GDP per Capita: 6971.669, original value: 5.7")
 
